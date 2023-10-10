@@ -21,7 +21,8 @@ public class PlayerMovement : MonoBehaviour
     private bool stableGround = true;
     public float teleportDistance = 5f; // Adjust this value to set the teleport distance
     //dasda
-
+    //dghafsjhdgfasjh
+    public int wkurwaimasie = 1;
     void Start()
     {
         player.freezeRotation = true;
